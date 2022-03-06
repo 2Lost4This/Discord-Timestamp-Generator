@@ -12,3 +12,7 @@ These are "messages" which show a fixed time, but in the local time of everyone 
 
 First, I had nothing to do, and second, I wanted to do something new + learn. 
 You can find the [tool here](https://tool.losti.xyz) 
+
+### Can i use it?
+
+Yes you can use it, but there is a [License](https://github.com/2Lost4This/Discord-Timestamp-Generator/blob/main/LICENSE) and you should accept it
